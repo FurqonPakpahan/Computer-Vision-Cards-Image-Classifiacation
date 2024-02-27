@@ -1,3 +1,3 @@
-# Computer-Vision-Cards-Image-Classifiacation
+# Computer-Vision-Cards-Image-Classification
 
 - On Progress..
